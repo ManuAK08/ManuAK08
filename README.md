@@ -1,4 +1,4 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Akanksha 👋
 
 🎓 I'm currently pursuing my MS in Business Analytics at Arizona State University.  
 📊 I'm passionate about turning data into actionable business insights.  
