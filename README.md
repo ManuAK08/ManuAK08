@@ -10,10 +10,10 @@ I’m especially interested in startups, data-driven decision-making, and innova
 - Learning Git and version control to collaborate like a pro
 
 ### Tools & Technologies
-- Languages: Python, SQL, R (beginner)
-- Libraries: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
+- Languages: SQL, Python
+- Libraries: Pandas, NumPy, Scikit-learn
 - Tools: Jupyter Notebook, VS Code, Git, Tableau, Power BI
-- Databases: MySQL, PostgreSQL
+- Databases: MySQL, MSSQL, PostgreSQL
 
 ### Currently Learning
 - Machine Learning fundamentals
@@ -21,9 +21,9 @@ I’m especially interested in startups, data-driven decision-making, and innova
 - Storytelling with data & dashboard design
 
 ### Interests
-- Business Analysis  
-- Data Science for Startups  
+- Business Analysis
 - Product Analytics  
+- Data Science for Startups  
 - Data Visualization  
 - Continuous Learning
 - Cat enthusiast 
